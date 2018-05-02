@@ -7,7 +7,7 @@
 #include <PubSubClient.h>
 #include <DHTesp.h>
 #include <Adafruit_GFX.h>
-#include "Adafruit_SSD1306.h" // edited this to define SSD1306_128_64 on line 73
+#include "Adafruit_SSD1306.h" // local version customized to 128x64 screen
 
 // Define Pins by name
 // Expects SDA on D2 and SCL on D1
